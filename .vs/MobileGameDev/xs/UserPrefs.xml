@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{B6A7EBA2-76C1-D3D0-CCE8-EF9FBAE2515C}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47304606-3d08-48fe-b86b-e7b178f2dd18" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Management/GM.cs">
+    <Files>
+      <File FileName="../Space Based/ProjectSettings/ProjectSettings.asset" />
+      <File FileName="Assets/Scripts/Editor/ReadmeEditor.cs" />
+      <File FileName="Assets/Scripts/Management/Manager.cs" Line="311" Column="37" />
+      <File FileName="Assets/Scripts/Management/GM.cs" Line="15" Column="36" />
+      <File FileName="Assets/Scripts/ships/AlienShipSystem.cs" />
+      <File FileName="Assets/Scripts/AsteroidBases/AsteroidBaseSystem.cs" />
+      <File FileName="Assets/Scripts/spawners/AlienSpawner.cs" />
+      <File FileName="Assets/Scripts/spawners/ShipSpawner.cs" />
+      <File FileName="Assets/Scripts/Ui/Cooldowns.cs" />
+      <File FileName="Assets/Scripts/ships/AlienMovement.cs" />
+      <File FileName="Assets/Scripts/AsteroidBases/AsteroidSystem.cs" />
+      <File FileName="Assets/Scripts/AsteroidBases/MABSystem.cs" />
+      <File FileName="Assets/Scripts/ships/Ship1System.cs" />
+      <File FileName="Assets/Scripts/ships/Ship2System.cs" />
+      <File FileName="Assets/Scripts/ships/Ship3System.cs" />
+      <File FileName="Assets/Scripts/Skills/SkillLibrary.cs" />
+      <File FileName="Assets/Scripts/ships/Movement.cs" />
+      <File FileName="Assets/Scripts/spawners/DoubleShipSpawner.cs" />
+      <File FileName="Assets/Scripts/ships/SerpentineMovement.cs" />
+      <File FileName="Assets/Scripts/ships/Ship1DRSystem.cs" />
+      <File FileName="Assets/Scripts/ships/Ship1DLSystem.cs" />
+      <File FileName="Assets/Scripts/spawners/LaunchShip.cs" Line="50" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobileGameDev" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AsteroidBases" expanded="True" />
+                <Node name="Editor" expanded="True" />
+                <Node name="Management" expanded="True">
+                  <Node name="GM.cs" selected="True" />
+                </Node>
+                <Node name="ships" expanded="True" />
+                <Node name="Skills" expanded="True" />
+                <Node name="spawners" expanded="True" />
+                <Node name="Ui" expanded="True" />
+              </Node>
+              <Node name="TutorialInfo" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
